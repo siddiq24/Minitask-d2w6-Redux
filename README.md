@@ -1,3 +1,15 @@
+> ## IMPLEMENTATION GLOBAL STATE MANAGEMENT USING REDUX TOOLKIT
+### 1. TABLE PAGE
+<img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/6f3a6c53-3f90-4572-9198-ba1aea7f22d2" />
+
+### 2. FORM PAGE
+
+<img width="1905" height="992" alt="image" src="https://github.com/user-attachments/assets/d4e26ab1-a8e0-4c53-9d59-cfb66176e09d" />
+
+### 3. TODOLIST PAGE
+
+<img width="1901" height="993" alt="image" src="https://github.com/user-attachments/assets/0ca06fa9-137b-484d-9584-60d2f884208a" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
